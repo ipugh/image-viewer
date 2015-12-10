@@ -1,5 +1,4 @@
-# image-viewer
-https://rawgit.com/ipugh/image-viewer/master/images.html
+# <a href="https://rawgit.com/ipugh/image-viewer/master/images.html" target="_blank">image-viewer</a>
 
 This is an image viewer website that can take a directory of photos and make them viewable in a website.
 
